@@ -187,16 +187,32 @@ export const experiences = [
 // src/constants/index.js (or wherever you keep constants)
 export const certificates = [
   {
-    title: "C++ Programming Certificate",
-    issuer: "Codesoft",
-    img: "/assets/certificates/cpp-certificate.png",
-    link: "https://example.com/cpp-certificate", // optional
+    title: "MERN Stack Certificate",
+    issuer: "CodeHelp",
+    img: "/assets/certificates/mern-certificate.png",
   },
   {
     title: "Java Programming Certificate",
-    issuer: "Some Institute",
-    img: "/assets/certificates/java-certificate.png",
-    link: "https://example.com/java-certificate", // optional
+    issuer: "Cod IT Software Traning Institute",
+    img: "/assets/certificates/java-certificate.jpg",
+  
   },
 ];
 
+export const mySocials = [
+  {
+    href: "https://www.linkedin.com/in/tejas-dhamankar-1256322a5/",
+    icon: "/assets/socials/linkedIn.svg",
+    name: "LinkedIn",
+  },
+  {
+    href: "https://github.com/TejasDhamankar",
+    icon: "/assets/socials/icons8-github.svg",
+    name: "GitHub",
+  },
+  {
+    href: "https://wa.me/918262869754",
+    icon: "/assets/socials/whatsApp.svg",
+    name: "GitHub",
+  },
+]
