@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256">
+  <rect width="256" height="256" rx="28" fill="#0D1117"/>
+  <g transform="translate(128,128)">
+    <rect x="-10" y="-80" width="20" height="160" fill="#F0DB4F"/>
+    <rect x="-80" y="-10" width="160" height="20" fill="#58A6FF"/>
+    <rect x="-10" y="-80" width="20" height="160" fill="#34D399" transform="rotate(45)"/>
+    <rect x="-10" y="-80" width="20" height="160" fill="#EF4444" transform="rotate(-45)"/>
+  </g>
+  <text x="128" y="222" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="28" fill="#ffffff">JWT</text>
+</svg>
