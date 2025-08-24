@@ -1,6 +1,6 @@
 import { OrbitingCircles } from "./OrbitingCircles";
 
-export function Frameworks() {
+ export default function Frameworks() {
   const skills = [
     "html5",
     "css3",
