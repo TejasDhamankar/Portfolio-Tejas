@@ -173,17 +173,28 @@ export const myProjects = [
 export const experiences = [
   {
     id: 1,
-    company: "Codesoft",
-    role: "C++ Intern",
-    duration: "Jun 2023 - Aug 2023",
-    description: [
+    date: "Jun 2023 - Aug 2023",
+    title: "Codesoft",
+    job: "C++ Intern",
+    contents: [
       "Worked on C++ projects involving data structures and algorithms.",
       "Implemented efficient solutions for problem-solving tasks.",
       "Collaborated with the team to debug and optimize existing code.",
       "Gained hands-on experience in software development and version control."
     ],
   },
-
+  {
+    id: 2,
+    date: "Aug 2025 - Nov 2025",
+    title: "Codec Technologies",
+    job: "Full Stack Developer Intern",
+    contents: [
+      "Worked as a Project Intern in a global IT consultancy operating across 27+ countries.",
+      "Developed and maintained full-stack web applications using the MERN stack.",
+      "Implemented backend integration, RESTful APIs, and authentication workflows.",
+      "Collaborated with project heads to deliver scalable solutions following industry best practices."
+    ],
+  },
 ];
 
 // src/constants/index.js (or wherever you keep constants)
