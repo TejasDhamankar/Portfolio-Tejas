@@ -172,13 +172,15 @@ export const myProjects = [
 
 export const experiences = [
   {
-    date: "January 2024",
-    title: "Codesoft",
-    job: "C++ Intern",
-    contents: [
-      "Completed a 1-month internship focused on C++ programming.",
-      "Worked on developing and debugging small modules and algorithms.",
-      "Learned practical implementation of data structures and object-oriented programming.",
+    id: 1,
+    company: "Codesoft",
+    role: "C++ Intern",
+    duration: "Jun 2023 - Aug 2023",
+    description: [
+      "Worked on C++ projects involving data structures and algorithms.",
+      "Implemented efficient solutions for problem-solving tasks.",
+      "Collaborated with the team to debug and optimize existing code.",
+      "Gained hands-on experience in software development and version control."
     ],
   },
   {
@@ -190,10 +192,9 @@ export const experiences = [
       "Worked as a Project Intern in a global IT consultancy operating across 27+ countries.",
       "Developed and maintained full-stack web applications using the MERN stack.",
       "Implemented backend integration, RESTful APIs, and authentication workflows.",
-      "Collaborated  project heads to deliver scalable solutions following industry best practices."
+      "Collaborated with project heads to deliver scalable solutions following industry best practices."
     ],
   },
- 
 ];
 
 // src/constants/index.js (or wherever you keep constants)
