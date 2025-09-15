@@ -1,5 +1,5 @@
 import { Timeline } from "../components/Timeline";
-import { experiences } from "../constants";
+import { experiences } from "../constants/index";
 const Experiences = () => {
   return (
     <div className="w-full">
