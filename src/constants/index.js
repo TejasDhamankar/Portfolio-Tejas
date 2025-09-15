@@ -183,18 +183,7 @@ export const experiences = [
       "Gained hands-on experience in software development and version control."
     ],
   },
-  {
-    id: 2,
-    company: "Codec Technologies",
-    role: "Full Stack Developer Intern",
-    duration: "Aug 2025 - Nov 2025",
-    description: [
-      "Worked as a Project Intern in a global IT consultancy operating across 27+ countries.",
-      "Developed and maintained full-stack web applications using the MERN stack.",
-      "Implemented backend integration, RESTful APIs, and authentication workflows.",
-      "Collaborated with project heads to deliver scalable solutions following industry best practices."
-    ],
-  },
+
 ];
 
 // src/constants/index.js (or wherever you keep constants)
